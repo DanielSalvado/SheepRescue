@@ -4,6 +4,6 @@ Game Speed: I thought that the game was pretty slow which made it a bit boring, 
 
 Sound: I followed the part2 of the exercises to add sound effects and also added background music on my own.
 
-Interface: When playing there are two UI elements the first is a Score counter that changes depending on the number of dropped and saved sheep, the second one has a heart icon and is counter for the sheep you saved
+Interface: When playing there are two UI elements the first is a Score counter that changes depending on the number of dropped and saved sheep, the second one has a heart icon and is counter for the sheep you saved.
 
 Others: When playing you can press esc you return to a main menu.
